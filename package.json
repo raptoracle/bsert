@@ -6,10 +6,10 @@
     "assert"
   ],
   "license": "MIT",
-  "repository": "git://github.com/bcoin-org/bsert.git",
-  "homepage": "https://github.com/bcoin-org/bsert",
+  "repository": "git://github.com/raptoracle/bsert.git",
+  "homepage": "https://github.com/raptoracle/bsert",
   "bugs": {
-    "url": "https://github.com/bcoin-org/bsert/issues"
+    "url": "https://github.com/raptoracle/bsert/issues"
   },
   "author": "Christopher Jeffrey <chjjeffrey@gmail.com>",
   "main": "./lib/assert.js",
@@ -21,6 +21,6 @@
     "node": ">=8.0.0"
   },
   "devDependencies": {
-    "bmocha": "^2.1.8"
+    "bmocha": "^2.2.0"
   }
 }
