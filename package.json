@@ -21,6 +21,6 @@
     "node": ">=8.0.0"
   },
   "devDependencies": {
-    "bmocha": "^2.2.0"
+    "bmocha": "git+https://github.com/raptoracle/bmocha.git#semver:=2.2.0"
   }
 }
